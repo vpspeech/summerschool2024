@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Schedule | UEF Summer School 2023
+title: Schedule | UEF Summer School 2024
 ---
 
 All teaching activities will take place at AU100 (Aurora building).
 
 |                   | MON 14.8                                          | TUE 15.8                                                | WED 16.8                                          | THU 17.8                                          | FRI 18.8                                          |
 |-------------------|---------------------------------------------------|---------------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
-| **09:15 - 10:45**   |            Tomi Kinnunen: Course introduction and basics of machine learning                                       |  Tomi Kinnunen: Speech analysis II                      | Tomi Kinnunen: Introduction to automatic speaker verification                      | Tomi Kinnunen: Introduction to voice conversion | Hye-jin Shim: Anti-spoofing         |
+| **09:15 - 10:45**   |            Tomi Kinnunen: Course introduction and basics of machine learning                                       |  TBD                    | TBD                     | TBD | TBD      |
 | **10:45 - 11:00** | <span style="color:brown">**Break**</span> | <span style="color:brown">**Break**</span>       | <span style="color:brown">**Break**</span> | <span style="color:brown">**Break**</span>       | <span style="color:brown">**Break**</span> |
 | **11:00 - 12:30** | Satu Hopponen: Introduction to Phonetics           |        Ville Hautamäki: Deep neural networks - architectures and optimization          | Vishwanath Pratap Singh: Speaker recognition practicals                   | Tomi Kinnunen: Introduction to anti-spoofing | Rosa González Hautamäki: Interpretability and speech technology models |
 | **12:30 - 13:30** | <span style="color:indigo">**Lunch break**</span> | <span style="color:indigo">**Lunch break**</span>       | <span style="color:indigo">**Lunch break**</span> | <span style="color:indigo">**Lunch break**</span>       | <span style="color:indigo">**Lunch break**</span>   |
