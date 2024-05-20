@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tasks | UEF Summer School 2023
+title: Tasks | UEF Summer School 2024
 ---
 
 ## Preparation for computer exercises
