@@ -27,7 +27,7 @@ The course is intended as a brief introduction to machine learning techniques an
 **Course materials:** [https://digicampus.fi]( https://digicampus.fi) <br />
 
 <!--**Registration:** [http://www.uef.fi/en/web/summerschool/how-to-apply](http://www.uef.fi/en/web/summerschool/how-to-apply)-->
-<!--**Study materials:** [https://moodle.uef.fi/course/view.php?id=17032](https://moodle.uef.fi/course/view.php?id=17032)  <br />
+<!--**Study materials:** [https://moodle.uef.fi](https://moodle.uef.fi)  <br />
 **Program codes:** [https://github.com/trungnt13/uef-summerschool2018](https://github.com/trungnt13/uef-summerschool2018)  <br />-->
 
 The course amounts to either 3 ECTS or 5 ECTS, depending on the mode: <br />
