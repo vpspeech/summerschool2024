@@ -4,9 +4,9 @@ title: UEF Summer School 2024
 ---
 
 ## <span style="color:green">**Course Overview**</span>
-<p align="justify"> The University of Eastern Finland (UEF) hosts a number of different summer
-courses in August 2024. The course <span style="color:indigo"> Machine Learning for Speech </span> is organized by the School
-of Computing of the UEF. Contact teaching takes place at the Joensuu campus of the UEF from August 12th to 16th. </p>
+The University of Eastern Finland (UEF) hosts a number of different summer
+courses in August 2024. The course <span style="color:indigo"> **Machine Learning for Speech** </span> is organized by the School
+of Computing of the UEF. Contact teaching takes place at the Joensuu campus of the UEF from August 12th to 16th.
 
 <!--The first day includes course introduction, introduction to machine
 learning, YXZ and basics of deep learning for modeling
@@ -14,7 +14,7 @@ sequential data. The next two days focus on audio topics (speaker &
 speech recognition, speaker diarization, speech enhancement, audio
 steganography), while the last two lecture days focus on XYZ.-->
 
-<p align="justify"> The course is intended as a brief introduction to machine learning techniques and their application to selected speech applications. We focus in particular to <span style="color:indigo">**speaker and language recognition, speech recognition, text-to-speech, voice anti-spoofing, and will briefly touch upon other miscellaneous topics**</span>. The course will involve lectures, practicals / computer exercises, and learning diary. While no formal pre-requirements are set, sufficient programming knowledge and certain level of mathematics/statistics (linear algebra and probability theory) will be helpful for the maximum benefit of the participant. The foreseen programming tools in the 2024 course edition include Python, Numpy, PyTorch, and Google Colab. </p>
+The course is intended as a brief introduction to machine learning techniques and their application to selected speech applications. We focus in particular to <span style="color:indigo">**speaker and language recognition, speech recognition, text-to-speech, voice anti-spoofing, and will briefly touch upon other miscellaneous topics**</span>. The course will involve lectures, practicals / computer exercises, and learning diary. While no formal pre-requirements are set, sufficient programming knowledge and certain level of mathematics/statistics (linear algebra and probability theory) will be helpful for the maximum benefit of the participant. The foreseen programming tools in the 2024 course edition include Python, Numpy, PyTorch, and Google Colab.
 
 
 ## <span style="color:green">**General Course Information**</span> 
