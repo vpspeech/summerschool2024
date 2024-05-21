@@ -24,7 +24,7 @@ The course is intended as a brief introduction to machine learning techniques an
 **Credits:** 3 or 5 ECTS <br />
 **Teaching language:** English <br />
 **Level:** Doctoral, Master, Bachelor <br />
-**Course materials:** [https://digicampus.fi]( https://digicampus.fi) <br />
+**Course materials:** Will be delivered to registrants through the Moodle environment of Digicampus[https://digicampus.fi]( https://digicampus.fi) <br />
 
 <!--**Registration:** [http://www.uef.fi/en/web/summerschool/how-to-apply](http://www.uef.fi/en/web/summerschool/how-to-apply)-->
 <!--**Study materials:** [https://moodle.uef.fi](https://moodle.uef.fi)  <br />
