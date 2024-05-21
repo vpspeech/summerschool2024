@@ -14,7 +14,7 @@ sequential data. The next two days focus on audio topics (speaker &
 speech recognition, speaker diarization, speech enhancement, audio
 steganography), while the last two lecture days focus on XYZ.-->
 
-The course is intended as a brief introduction to machine learning techniques and their application to selected speech applications. We focus in particular to speaker, speech and language recognition, text-to-speech, and voice anti-spoofing, and will briefly touch upon other miscellaneous topics. The course will involve lectures, practicals / computer exercises, and learning diary. While no formal pre-requirements are set, sufficient programming knowledge and certain level of mathematics/statistics (linear algebra and probability theory) will be helpful for the maximum benefit of the participant. The foreseen programming tools in the 2024 course edition include Python, Numpy, PyTorch, and Google Colab.
+The course is intended as a brief introduction to machine learning techniques and their application to selected speech applications. We focus in particular to <span style="color:indigo">**speech recognition, speaker and language recognition, text-to-speech, and voice anti-spoofing,and will briefly touch upon other miscellaneous topics**</span>. The course will involve lectures, practicals / computer exercises, and learning diary. While no formal pre-requirements are set, sufficient programming knowledge and certain level of mathematics/statistics (linear algebra and probability theory) will be helpful for the maximum benefit of the participant. The foreseen programming tools in the 2024 course edition include Python, Numpy, PyTorch, and Google Colab.
 
 
 ## General Course Information
@@ -24,7 +24,7 @@ The course is intended as a brief introduction to machine learning techniques an
 **Credits:** 3 or 5 ECTS <br />
 **Teaching language:** English <br />
 **Level:** Doctoral, Master, Bachelor <br />
-**Course materials:** Will be delivered to registrants through the Moodle environment of Digicampus[https://digicampus.fi]( https://digicampus.fi) <br />
+**Course materials:** Will be delivered to registrants through the Moodle environment of Digicampus [https://digicampus.fi]( https://digicampus.fi) <br />
 
 <!--**Registration:** [http://www.uef.fi/en/web/summerschool/how-to-apply](http://www.uef.fi/en/web/summerschool/how-to-apply)-->
 <!--**Study materials:** [https://moodle.uef.fi](https://moodle.uef.fi)  <br />
