@@ -24,7 +24,7 @@ The course is intended as a brief introduction to machine learning techniques an
 **Credits:** 3 or 5 ECTS <br />
 **Teaching language:** English <br />
 **Level:** Doctoral, Master, Bachelor <br />
-**Course materials:** [https://digicampus.fi/course/view.php?id=4443]( https://digicampus.fi/course/view.php?id=4443) <br />
+**Course materials:** [https://digicampus.fi]( https://digicampus.fi) <br />
 
 <!--**Registration:** [http://www.uef.fi/en/web/summerschool/how-to-apply](http://www.uef.fi/en/web/summerschool/how-to-apply)-->
 <!--**Study materials:** [https://moodle.uef.fi/course/view.php?id=17032](https://moodle.uef.fi/course/view.php?id=17032)  <br />
@@ -35,10 +35,8 @@ The course amounts to either 3 ECTS or 5 ECTS, depending on the mode: <br />
 **A.** Lectures + Quizzes + Practicals + Learning Diary (August 12 - 16), total 3 ECTS <br />
 **B.** The A. part + individual project (Completed after the cource), total 5 ECTS <br />
 
-The course contains 5 days of lectures, hands on practicals, project
-work and learning diary. The course will be assessed as
-pass/fail. Students who pass the course will receive a course
-certificate.
+The course contains 5 days of lectures (quizzed), hands-on practicals in Google Colab, a learning diary and (optional) project work.
+The course will be assessed as pass/fail. Students who pass the course will receive a course certificate.
 
 ## Social Program
 
