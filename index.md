@@ -19,7 +19,7 @@ The course is intended as a brief introduction to machine learning techniques an
 
 ## General Course Information
 
-**Venue:** Joensuu campus Venue: AU100 (Aurora building) <br />
+**Venue:** Joensuu campus Venue: M100/M103 (Metria building) <br />
 **Dates:** 12-16 August 2023 <br />
 **Credits:** 3 or 5 ECTS <br />
 **Teaching language:** English <br />
