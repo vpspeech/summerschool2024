@@ -14,7 +14,7 @@ sequential data. The next two days focus on audio topics (speaker &
 speech recognition, speaker diarization, speech enhancement, audio
 steganography), while the last two lecture days focus on XYZ.-->
 
-The course is intended as a brief introduction to machine learning techniques and their application to selected speech applications. We focus in particular to speaker, speech and language recognition and voice anti-spoofing, and will briefly touch upon other miscellaneous topics. The course will involve lectures, practicals / computer exercises, and learning diary. While no formal pre-requirements are set, sufficient programming knowledge and certain level of mathematics/statistics (linear algebra and probability theory) will be helpful for the maximum benefit of the participant. The foreseen programming tools in the 2024 course edition include Python, Numpy, PyTorch, and Google Colab.
+The course is intended as a brief introduction to machine learning techniques and their application to selected speech applications. We focus in particular to speaker, speech and language recognition, text-to-speech, and voice anti-spoofing, and will briefly touch upon other miscellaneous topics. The course will involve lectures, practicals / computer exercises, and learning diary. While no formal pre-requirements are set, sufficient programming knowledge and certain level of mathematics/statistics (linear algebra and probability theory) will be helpful for the maximum benefit of the participant. The foreseen programming tools in the 2024 course edition include Python, Numpy, PyTorch, and Google Colab.
 
 
 ## General Course Information
