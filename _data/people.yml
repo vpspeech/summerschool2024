@@ -29,7 +29,12 @@ Teachers:
   topic: "Speech"
   photo: "img/jaga.jpg"
   site: "https://scholar.google.com/citations?user=l_lY9NQAAAAJ&hl=en"
-TAs:  
+TAs: 
+- name: "Manasi Chibber"
+  organization: "UEF"
+  topic: "Speech"
+  photo: "img/manasi.jpg"
+  site: "https://uefconnect.uef.fi/henkilo/manasi.chhibber/"  
 - name: "Oguzhan Kurnaz"
   organization: "Bursa Technical University, Türkiye (Visiting UEF)"
   topic: "Speech"
