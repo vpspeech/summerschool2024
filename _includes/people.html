@@ -28,6 +28,19 @@
                 </div>
           {% endfor %}
       </div>
+      <div class="col-md-14">
+          <h2>Teaching Assistant</h2>
+          
+          {% for p in site.data.people.TAs %}
+                 <div class="people">
+                      {% if p.site %} <a href="{{ p.site }}" title="website" target="_blank"> {% endif %}
+                      <div class="peoplephoto"><img src="{{ p.photo }}"></div>
+                      <div>{{ p.name }}</div>
+                      {% if p.site %} </a> {% endif %}
+                      <div> {{ p.organization }} </div>
+                </div>
+          {% endfor %}
+      </div>
 
 </div>
 </div>
