@@ -8,7 +8,7 @@ title: UEF Summer School 2024
 ### Introduction to speech analysis (short-term processing, spectral analysis, linear prediction)<br />
 ### Introduction to deep learning: architectures, optimization, loss functions, data augmentation, foundational models<br />
 ### Evaluation of binary classification (type I/II errors, ROC/DET plot, error summarization)<br />
-## <span style="color:indigo">**Applications (2 days) **</span><br />
+## <span style="color:indigo">**Applications (2 days)**</span><br />
 ### Automatic speech recognition<br />
 ### Automatic speaker verification<br />
 ### Spoken language identification and diarization<br />
