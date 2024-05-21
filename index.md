@@ -6,7 +6,7 @@ title: UEF Summer School 2024
 ## Course Overview
 The University of Eastern Finland (UEF) hosts a number of different summer
 courses in August 2024. The course *Machine Learning for Speech* is organized by the School
-of Computing of the UEF. Contact teaching takes place at the Joensuu campus of the UEF from August 14th to 18th.
+of Computing of the UEF. Contact teaching takes place at the Joensuu campus of the UEF from August 12th to 16th.
 
 <!--The first day includes course introduction, introduction to machine
 learning, YXZ and basics of deep learning for modeling
