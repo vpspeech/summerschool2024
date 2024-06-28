@@ -3,7 +3,7 @@ layout: default
 title: Schedule | UEF Summer School 2024
 ---
 
-All teaching activities will take place at AU100 (Aurora building).
+All teaching activities will take place at XXX (Aurora building).
 
 |                   | MON 12.8                                               | TUE 13.8                                                | WED 14.8                                          | THU 15.8                                          | FRI 16.8                                          |
 |-------------------|---------------------------------------------------|---------------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
