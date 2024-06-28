@@ -1,17 +1,26 @@
 ---
 layout: default
-title: UEF Summer School 2024
+title: Schedule | UEF Summer School 2024
 ---
-## <span style="color:green">**The detailed course time-line will be published soon. The topics covered include:**</span> <br />
-### <span style="color:indigo">**Fundamentals (3 days)**</span><br />
-Introduction to machine learning and speech processing<br />
-Introduction to speech analysis (short-term processing, spectral analysis, linear prediction)<br />
-Introduction to deep learning: architectures, optimization, loss functions, data augmentation, foundational models<br />
-Evaluation of binary classification (type I/II errors, ROC/DET plot, error summarization)<br />
-### <span style="color:indigo">**Applications (2 days)**</span><br />
-Automatic speech recognition<br />
-Automatic speaker verification<br />
-Spoken language identification and diarization<br />
-Text-to-speech (speech synthesis): models and evaluation<br />
-Speech deepfake detection (anti-spoofing)<br />
-Audio forensics<br />
+
+All teaching activities will take place at AU100 (Aurora building).
+
+|                   | MON 12.8                                          | TUE 13.8                                                | WED 14.8                                          | THU 15.8                                          | FRI 16.8                                          |
+|-------------------|---------------------------------------------------|---------------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
+| **09:15 - 10:45**   |            Tomi Kinnunen: Course introduction                                       |  Satu Hopponen: Introduction to Phonetics                       | Tomi Kinnunen: Introduction to automatic speaker verification                      | Tomi Kinnunen: Introduction to voice conversion | Hye-jin Shim: Anti-spoofing         |
+| **10:45 - 11:00** | <span style="color:brown">**Break**</span> | <span style="color:brown">**Break**</span>       | <span style="color:brown">**Break**</span> | <span style="color:brown">**Break**</span>       | <span style="color:brown">**Break**</span> |
+| **11:00 - 12:30** |        <span style="color:green">**Practicals I: Gender Recognition**</span>    |        Ville Hautamäki: Deep neural networks - architectures and optimization          | Vishwanath Pratap Singh: Speaker recognition practicals                   | Tomi Kinnunen: Introduction to anti-spoofing | Rosa González Hautamäki: Interpretability and speech technology models |
+| **12:30 - 13:30** | <span style="color:indigo">**Lunch break**</span> | <span style="color:indigo">**Lunch break**</span>       | <span style="color:indigo">**Lunch break**</span> | <span style="color:indigo">**Lunch break**</span>       | <span style="color:indigo">**Lunch break**</span>   |
+| **13:30 - 15:00** |    Tomi Kinnunen: Machine Learning  |            Einar Meister: Speech variability                  | Vishwanath Pratap Singh: Introduction ASR           |  Lauri Tavi: Speech forensics, voice disguise and speaker de-identification | Poster session (+ mandatory learning diary from participants) |
+| **15:00 - 15:15** | <span style="color:brown">**Break**</span> | <span style="color:brown">**Break**</span>       | <span style="color:brown">**Break**</span> | <span style="color:brown">**Break**</span>       |   <span style="color:brown">**Break**</span> |
+| **15:15 - 16:00** |      Tomi Kinnunen: Speech analysis         | <span style="color:green">**Practicals II**</span> | <span style="color:green">**Practicals III**</span>                                          | Hye-jin Shim: anti-spoofing |  <span style="color:green">**Practicals IV**</span> |
+| **16:00 - 16:45** |                 | <span style="color:green">**Practicals II**</span> |                                           | Hye-jin Shim: Anti-spoofing |  <span style="color:green">**Practicals IV**</span> |
+|                   |                                                   |                                                         |                                                   |                                                         |                                                   |
+| **17:00 - 21:00**  | <span style="color:crimson">**Sauna evening**</span>          |                                                         | <span style="color:crimson">**Karelian pie workshop with Joensuun Martat + handicrafts workshop with Taito Pohjois-Karjala**</span>                                                                        |                                                   |                 <span style="color:crimson">**Farewell dinner (Kerubi)**                                  |
+
+&nbsp;
+
+More info on social program: [http://www.uef.fi/en/web/summerschool/social-programme-in-joensuu](http://www.uef.fi/en/web/summerschool/social-programme-in-joensuu)
+&nbsp;
+
+
