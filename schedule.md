@@ -21,7 +21,7 @@ All teaching activities will take place at M100/M103 (Metria building).
 
 &nbsp;
 
-More info on social program: [http://www.uef.fi/en/web/summerschool/social-programme-in-joensuu](http://www.uef.fi/en/web/summerschool/social-programme-in-joensuu)
+More info on social program: [http://www.uef.fi/en/web/summerschool/social-programme-in-joensuu](https://www.uef.fi/en/uef-summer-school-courses)
 &nbsp;
 
 
