@@ -10,9 +10,7 @@ title: Tasks | UEF Summer School 2024
 Following (optional) pre-course learning tasks will help you to understand computer exercises better:
 
 - If you are new to Python programming language, consider learning the basics.
-    - [https://www.learnpython.org/](https://www.learnpython.org/)
-- If you are new to NumPy, consider learning the basics:
-    - [https://www.learnpython.org/](https://www.learnpython.org/) [See Numpy Arrays under Data Science tutorials]
+    - [Python Basics Colab](https://colab.research.google.com/drive/1ymomWNQeI9xWGX52xXWIR0AU4o4_nsVz)
 
 
 <!--
